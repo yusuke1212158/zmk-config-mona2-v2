@@ -29,6 +29,7 @@ config SPI
     default y
 
 config PAW3222
+    bool
     default y
 
 config RGBLED_WIDGET_BATTERY_LEVEL_HIGH
